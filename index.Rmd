@@ -1,0 +1,63 @@
+---
+title       : Developing Data Products
+subtitle    : {r date()}
+author      : Kamcculloch
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Introduction
+As part of the coursera developing data class, we were tasked to create an app in shiny and creating a presentation to explain that app... this folks, is that presentation... mind bllllown right?  
+
+
+--- .class #id 
+
+## Motivation
+
+Are you lazy? Do you have friends or family in Europe? Do you talk to these family/friends? Is it really awkward and you quickly run out of things to say, so you do the thing where you talk about the weather? 
+
+1. _Yes_
+2. No
+
+***.hint Its Yes
+
+Perfect! Then this app is for you!!!
+
+--- .class #id
+
+## The (extremely basic) App!
+
+Introducing.... The Celsius to Fahrenheit converter!!! 
+
+Is this app going to change the world? No, you can just google it... but do you want to go to some random guys web app and look at some thrown together project? Do you sense a theme with 90% of sentences being questions?
+
+1. _Yes_
+2. No
+
+***.explanation Its Yes
+
+
+--- .class #id
+
+## Out-roduction 
+
+Here is a picture of the App, just choose the degrees Celsius and press submit - its that easy! 
+
+Here's a Link to the github with accompanying files.
+...also, did you know?
+```{r}
+sum(1:10)
+```
+Are you tired of all the questions? 
+
+1. _Yes_
+2. No
+
+***.hint Thanks party people!
+
+--- .class #id
